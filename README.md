@@ -21,7 +21,7 @@ Juego Snake estilo Nokia pero con laberintos, creado por un dev haitiano en Quil
 - [Ai studio / Python / JavaScript / Construct / Godot]
 
 ### 📸 Capturas
-(Pon 2 fotos de tu juego aquí)
+
 
 ### 👑 Creador
 Rey Haitiano en Chile - Quilicura, Santiago
